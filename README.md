@@ -1,4 +1,4 @@
-# giscus-posts
+# giscus-comments
 Repository for [giscus](https://giscus.app) comments for [my blog](https://blog.anakama.xyz).
 
 > \[!NOTE]
