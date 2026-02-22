@@ -1,7 +1,7 @@
 # giscus-posts
 Repository for [giscus](https://giscus.app) comments for [my blog](https://blog.anakama.xyz).
 
-> \[!IMPORTANT]
+> \[!NOTE]
 >
 > See [Discussions](https://github.com/AnakamaTH/giscus-posts/discussions) for current posts avalible.
 >
